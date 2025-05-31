@@ -1,5 +1,6 @@
 #include <stdlib.h>
 
 int main(){
-    printf("abcdefg")
+    printf("abcdefg");
+    return 0;
 }
